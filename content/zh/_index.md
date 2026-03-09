@@ -20,7 +20,7 @@ sections:
         text: 下载简历
         url: uploads/resume-Chinese.pdf
       headings:
-        about: ''
+        about: '简介'
         education: ''
         interests: ''
     design:
