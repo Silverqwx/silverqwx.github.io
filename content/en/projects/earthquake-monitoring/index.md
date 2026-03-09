@@ -1,8 +1,8 @@
 ---
-title: Indoor Object Monitoring System Under Earthquake Scene
+title: Indoor Object Monitoring System Under Earthquake Scenarios
 summary: 360-degree high-speed monitoring of indoor object trajectories and vibrations using multi-camera system
 tags:
-  - 3D Reconstruction
+  - 3D Monitoring
 date: '2020-10-01'
 image:
   focal_point: Smart

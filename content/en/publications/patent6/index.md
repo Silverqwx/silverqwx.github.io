@@ -3,16 +3,18 @@ title: 'Automatic Monitoring Method, System, and Equipment for Relay Protection 
 
 authors:
   - Fan He
-  - me
+  - Wenxiang Qin
   - Qingqin Fu
   - Jie Ren
   - Yingchun Fu
-  - Menjuan Chen
+  - Mengjuan Chen
 
 date: '2022-05-01T00:00:00Z'
 publishDate: '2022-08-01T00:00:00Z'
 
 publication_types: ["patent"]
+
+publication: "Invention, Patent No. CN114862821B"
 
 abstract: The present invention is related to the field of computer vision & digital image processing, and specifically related to a method, system & equipment for automatic monitoring of relay protection hard pressure plate, aiming to solve the problem that the traditional relay protection hard pressure plate monitoring scheme is time-consuming and labor-intensive, and the existing automatic monitoring scheme cannot realize fully automatic monitoring. The invention solves the problem that the traditional monitoring method is time-consuming and laborious, and the existing automatic monitoring cannot be completely automated.
 

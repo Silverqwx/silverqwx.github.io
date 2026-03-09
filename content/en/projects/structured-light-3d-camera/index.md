@@ -9,8 +9,8 @@ image:
   focal_point: Smart
 ---
 
-Developed a 3D scanning camera based on structured light and multi-view geometry. Successfully applied to multiple projects and the 3D camera product of CAS Suzhou Research Institute.
+Developed a 3D scanning camera based on structured light and multi-view geometry; the technology has been successfully applied to multiple projects and the 3D camera product of the Institute of Automation, CAS, Suzhou Research Institute.
 
 - Achieved 0.01 mm high precision
-- Used CPU and GPU (CUDA) parallel acceleration for 30 fps high-speed 3D reconstruction
+- Used CPU and GPU (CUDA) parallel acceleration to achieve 30 fps high-speed 3D reconstruction
 - Built device control, visualization interaction, and point cloud processing UI software using QT and OpenGL

@@ -2,7 +2,7 @@
 title: 'RGBD-based Box Size Measurement and Packaging Optimization'
 
 authors:
-  - me
+  - Wenxiang Qin
   - Lin Guo
   - Shuhong Lin
 

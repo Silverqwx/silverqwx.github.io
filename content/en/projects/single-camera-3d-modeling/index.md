@@ -1,5 +1,5 @@
 ---
-title: 3D Modeling System Based on Single 3D Camera
+title: Single-Camera 3D Modeling System
 summary: Panoramic 3D reconstruction through multi-view scanning with a single self-developed 3D camera
 tags:
   - 3D Reconstruction

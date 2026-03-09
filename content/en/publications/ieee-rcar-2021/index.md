@@ -6,7 +6,7 @@ authors:
   - Xilong Liu
   - Mengjuan Chen
   - Qingyi Gu
-  - me
+  - Wenxiang Qin
   - Tingyu Yan
   - Jiawei Lu
 

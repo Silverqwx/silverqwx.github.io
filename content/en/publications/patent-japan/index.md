@@ -5,14 +5,14 @@ authors:
   - Idaku Ishii
   - Kohei Shimasaki
   - Feiyue Wang
-  - me
+  - Wenxiang Qin
 
 date: '2024-01-01T00:00:00Z'
 publishDate: '2024-01-01T00:00:00Z'
 
 publication_types: ["patent"]
 
-publication: "Patent No. 7421200 (Japan)"
+publication: "Japan Patent No. 7421200"
 
 abstract: ''
 

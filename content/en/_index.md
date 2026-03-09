@@ -37,37 +37,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       My research interests include **Computer Vision**, **3D Reconstruction** and **High-Speed Vision**. I focus on structured light 3D reconstruction, high-speed visual perception, and point cloud processing.
-
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ''
-  #     filters:
-  #       folders:
-  #         - publications
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
   - block: collection
     id: projects
     content:
@@ -80,6 +49,38 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: markdown
+    content:
+      title: '📚 Highlights'
+      subtitle: ''
+      text: |-
+        - Strong foundation in mathematics, excellent English reading ability, fast learner of new technologies, with a keen interest in cutting-edge science and technology
+        - Skilled at identifying the essence of problems and proposing effective solutions from first principles
+        - Adept at analyzing overall architecture from a macro perspective, with strong strategic planning abilities
+        - Positive, optimistic, responsible, patient, and meticulous with a structured approach to work
+    design:
+      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:

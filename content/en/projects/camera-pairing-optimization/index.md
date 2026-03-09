@@ -3,7 +3,7 @@ title: Camera Pairing Optimization for Panoramic 3D Vibration Measurement
 summary: Optimized stereo camera pairing in multi-camera panoramic vibration measurement systems
 tags:
   - Digital Twin
-  - 3D Measurement
+  # - 3D Measurement
 date: '2024-01-01'
 image:
   focal_point: Smart
@@ -13,4 +13,4 @@ For multi-camera panoramic measurement configurations in the self-developed vibr
 
 - Proposed a novel camera evaluation metric
 - First to introduce camera pairing optimization in multi-camera vibration measurement
-- Solved interference from background and self-occlusion, effectively improving measurement robustness in complex scenes and shapes
+- Solved interference from background and self-occlusion during measurement, effectively improving measurement robustness in complex scenes and shapes

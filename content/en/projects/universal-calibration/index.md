@@ -1,5 +1,5 @@
 ---
-title: Universal Calibration System for Lens Models
+title: Universal Calibration System
 summary: Graph-optimization-based universal calibration system for arbitrary camera-projector combinations
 tags:
   - Calibration
@@ -8,7 +8,7 @@ image:
   focal_point: Smart
 ---
 
-Abstracted camera and projector systems as a pinhole model group, introduced graph optimization for globally optimizing intrinsics, distortion, and extrinsics.
+Abstracted camera and projector systems as a pinhole model group, introduced graph optimization for globally optimizing intrinsics, distortion, and extrinsics, and developed a universal calibration system.
 
 - Applicable to arbitrary camera-projector combination systems
 - Used Lie algebra for extrinsic representation, effectively eliminating accumulated errors along the device chain through global nonlinear optimization

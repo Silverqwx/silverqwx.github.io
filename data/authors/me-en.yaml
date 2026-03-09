@@ -26,12 +26,12 @@ links:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Silverqwx
-  - icon: brands/zhihu
-    url: https://www.zhihu.com/people/yin-fa-91
-  - icon: brands/bilibili
-    url: https://space.bilibili.com/142699690
-  - icon: brands/youtube
-    url: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
+  # - icon: brands/zhihu
+  #   url: https://www.zhihu.com/people/yin-fa-91
+  # - icon: brands/bilibili
+  #   url: https://space.bilibili.com/142699690
+  # - icon: brands/youtube
+  #   url: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
 
 interests:
   - Robot Vision
@@ -39,68 +39,69 @@ interests:
   - Digital Twin
 
 education:
-  - degree: PhD in Smart Robotics
+  - degree: Ph.D. in Smart Robotics
     institution: Hiroshima University
-    start: 2022-04-01
-    end: 2026-03-31
-  - degree: MSc in Systems Engineering
+    start: 2022-04
+    end: 2026-03
+  - degree: M.Eng. in Systems Engineering
     institution: Nanjing University of Science and Technology
-    start: 2016-09-01
-    end: 2019-04-30
-  - degree: BSc in Automation
+    start: 2016-09
+    end: 2019-04
+  - degree: B.Eng. in Automation
     institution: Nanjing Agricultural University
-    start: 2012-09-01
-    end: 2016-06-30
+    start: 2012-09
+    end: 2016-06
 
 experience:
-  - role: R&D Engineer
+  - role: 3D Vision R&D Engineer
     org: Institute of Automation, Chinese Academy of Sciences (Nanjing)
-    start: 2018-06-01
-    end: 2022-03-31
+    start: 2018-06
+    end: 2022-03
     summary: |
-      3D reconstruction related algorithms research & development.
-      Led multiple projects including structured light 3D camera, universal calibration system,
-      high-speed 3D reconstruction, and various industrial vision systems.
+      Research and development of visual 3D reconstruction algorithms and products.
+      Led multiple projects including structured light high-speed 3D camera, universal calibration optimization, handheld 3D scanner, and array-based panoramic scanner.
 
 skills:
   - name: Mathematics
     items:
-      - label: Linear Algebra
+      - label: Matrix Algebra
         level: 5
-      - label: Statistics
+      - label: Linear & Nonlinear Optimization
         level: 5
-      - label: Optimization
+      - label: Lie Group & Lie Algebra
         level: 5
-      - label: Differential Geometry
+      - label: Probability & Statistics
         level: 4
+      - label: State Estimation
+        level: 4
+      - label: Differential Geometry
+        level: 3
+  - name: Programming & Tools
+    items:
+      - label: C++ / CUDA / QT
+        level: 5
+      - label: OpenCV / PCL / Eigen3 / G2O / OpenGL / Sophus
+        level: 5
+      - label: Python
+        level: 4
+      - label: PyTorch / NumPy
+        level: 3
   - name: SLAM & 3D Vision
     items:
-      - label: Structured Light 3D Reconstruction
-        level: 5
-      - label: VSLAM / NeRF / 3DGS
+      - label: 3D Reconstruction
         level: 5
       - label: Multi-View Geometry
         level: 5
-      - label: Computer Graphics (OpenGL)
+      - label: Computer Graphics (CG)
         level: 4
-  - name: Pattern Recognition & ML
+      - label: VSLAM / NeRF / 3DGS / BA / ICP
+        level: 4
+  - name: Pattern Recognition
     items:
-      - label: Machine Learning (Bayes, SVM, etc.)
+      - label: Machine Learning
         level: 4
-      - label: Deep Learning (CNN, Transformer, etc.)
+      - label: Deep Learning
         level: 4
-      - label: Python / PyTorch / NumPy
-        level: 4
-  - name: Programming & Tools
-    items:
-      - label: C++
-        level: 5
-      - label: CUDA
-        level: 4
-      - label: QT
-        level: 4
-      - label: OpenCV / PCL / Eigen3 / G2O
-        level: 5
 
 languages:
   - name: Chinese
@@ -110,19 +111,19 @@ languages:
     level: 4
     label: Fluent
   - name: Japanese
-    level: 3
-    label: Intermediate
+    level: 1
+    label: Beginner
 
 awards:
-  - title: National Scholarship (3 consecutive years)
-    awarder: Ministry of Education, China
-    date: "2019-06-01"
-    summary: Awarded during Master's program at NUST.
-  - title: JST Research Fellowship
+  - title: Graduate Academic Scholarship
+    awarder: Nanjing University of Science and Technology
+    date: "2019-04-01"
+    summary: Awarded for three consecutive years during Master's program at NUST.
+  - title: Research Fellowship
     awarder: Japan Science and Technology Agency
     date: "2022-04-01"
-    summary: "Grant Number JPMJFS2129"
-  - title: JST SPRING Fellowship
+    summary: The Japan Science and Technology Agency (JST) Research Fellowship, Grant Number JPMJFS2129
+  - title: SPRING Fellowship
     awarder: Japan Science and Technology Agency
-    date: "2022-04-01"
-    summary: "Support for Pioneering Research Initiated by the Next Generation. Grant Number JPMJSP2132"
+    date: "2024-04-01"
+    summary: The Japan Science and Technology Agency (JST) "Support for Pioneering Research Initiated by the Next Generation (SPRING)", Grant Number JPMJSP2132

@@ -3,7 +3,7 @@ title: Bridge Structural Health Monitoring System
 summary: Non-invasive bridge structural health monitoring based on visual vibration digital twin
 tags:
   - Digital Twin
-  - 3D Measurement
+  # - 3D Measurement
 date: '2023-01-01'
 featured: true
 image:
