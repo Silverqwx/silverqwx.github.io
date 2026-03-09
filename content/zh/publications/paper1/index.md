@@ -1,10 +1,10 @@
 ---
-title: '基于RGBD的箱体尺寸测量与装箱优化'
+title: '基于RGBD的箱体尺寸测量与包装优化'
 
 authors:
-  - me
-  - Lin Guo
-  - Shuhong Lin
+  - 秦文翔
+  - 郭玲
+  - 林舒泓
 
 date: '2019-05-01T00:00:00Z'
 publishDate: '2019-05-01T00:00:00Z'

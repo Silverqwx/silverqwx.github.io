@@ -1,11 +1,11 @@
 ---
-title: '画像分析装置、画像分析方法及びプログラム'
+title: 'Image analysis device, image analysis method and program'
 
 authors:
-  - Idaku Ishii
-  - Kohei Shimasaki
-  - Feiyue Wang
-  - me
+  - 石井抱
+  - 岛崎航平
+  - 王飞跃
+  - 秦文翔
 
 date: '2024-01-01T00:00:00Z'
 publishDate: '2024-01-01T00:00:00Z'

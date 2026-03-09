@@ -4,7 +4,7 @@ main:
   - name: 简介
     url: /
     weight: 10
-  - name: 论文成果
+  - name: 著作
     url: publications/
     weight: 11
   - name: 经历

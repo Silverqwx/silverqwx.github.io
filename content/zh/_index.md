@@ -37,37 +37,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       My research interests include **Computer Vision**, **3D Reconstruction** and **High-Speed Vision**. I focus on structured light 3D reconstruction, high-speed visual perception, and point cloud processing.
-
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: 精选论文
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ''
-  #     filters:
-  #       folders:
-  #         - publications
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
   - block: collection
     id: projects
     content:
@@ -80,6 +49,38 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: collection
+    id: papers
+    content:
+      title: 精选论文
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+  - block: markdown
+    content:
+      title: '📚 个人优势与亮点'
+      subtitle: ''
+      text: |-
+        - 积累了大量基础知识（尤其擅长数学），英语阅读能力出色，能够快速掌握新技术，且对前沿科技有着浓厚的兴趣
+        - 善于观察问题的本质，从第一性原理出发，提出切实有效的解决方案
+        - 善于从宏观层面分析整体架构，善于全局战略规划
+        - 积极乐观，责任心强，有耐心，做事严谨有规划
+    design:
+      columns: '1'
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
