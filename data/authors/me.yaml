@@ -2,126 +2,129 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Wenxiang Qin
-  given: Wenxiang
-  family: Qin
-  alternate: '秦文翔'
+  display: 秦文翔
+  given: 文翔
+  family: 秦
+  alternate: 'Wenxiang Qin'
   pronunciation: ''
   pronouns: he/him
 
-role: PhD Student
+role: 博士
 
 bio: |
-  Wenxiang Qin is a PhD student at the Hiroshima University High-Speed Vision Lab.
-  His research interests include robot vision, 3D reconstruction and digital twin.
+  秦文翔，广岛大学高速视觉实验室博士生。
+  研究方向为机器人视觉、三维重建与数字孪生。
 
 affiliations:
-  - name: Hiroshima University
+  - name: 广岛大学
     url: https://www.hiroshima-u.ac.jp/
 
 links:
   - icon: at-symbol
     url: mailto:wenxiangqin341@gmail.com
-    label: E-mail Me
+    label: 电子邮件
   - icon: brands/github
     url: https://github.com/Silverqwx
-  - icon: brands/zhihu
-    url: https://www.zhihu.com/people/yin-fa-91
-  - icon: brands/bilibili
-    url: https://space.bilibili.com/142699690
-  - icon: brands/youtube
-    url: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
+  # - icon: brands/zhihu
+  #   url: https://www.zhihu.com/people/yin-fa-91
+  # - icon: brands/bilibili
+  #   url: https://space.bilibili.com/142699690
+  # - icon: brands/youtube
+  #   url: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
 
 interests:
-  - Robot Vision
-  - 3D Reconstruction
-  - Digital Twin
+  - 机器人视觉
+  - 三维重建
+  - 数字孪生
 
 education:
-  - degree: PhD in Smart Robotics
-    institution: Hiroshima University
-    start: 2022-04-01
-    end: 2026-03-31
-  - degree: MSc in Systems Engineering
-    institution: Nanjing University of Science and Technology
-    start: 2016-09-01
-    end: 2019-04-30
-  - degree: BSc in Automation
-    institution: Nanjing Agricultural University
-    start: 2012-09-01
-    end: 2016-06-30
+  - degree: 博士（智能机器人）
+    institution: 广岛大学
+    start: 2022-04
+    end: 2026-03
+  - degree: 硕士（系统工程）
+    institution: 南京理工大学
+    start: 2016-09
+    end: 2019-04
+  - degree: 学士（自动化）
+    institution: 南京农业大学
+    start: 2012-09
+    end: 2016-06
 
 experience:
-  - role: R&D Engineer
-    org: Institute of Automation, Chinese Academy of Sciences (Nanjing)
-    start: 2018-06-01
-    end: 2022-03-31
+  - role: 3D视觉工程师
+    org: 中国科学院自动化研究所（南京）
+    start: 2018-06
+    end: 2022-03
     summary: |
-      3D reconstruction related algorithms research & development.
-      Led multiple projects including structured light 3D camera, universal calibration system,
-      high-speed 3D reconstruction, and various industrial vision systems.
+      视觉三维重建相关算法与产品的研究与开发；
+      主导了多个项目，包括结构光高速三维相机研发、通用标定性能优化、手持式三维扫描仪研发、阵列式全景扫描仪研发等等。
 
 skills:
-  - name: Mathematics
+  - name: 数学
     items:
-      - label: Linear Algebra
+      - label: 矩阵代数
         level: 5
-      - label: Statistics
+      - label: 线性与非线性优化
         level: 5
-      - label: Optimization
+      - label: 李群与李代数
         level: 5
-      - label: Differential Geometry
+      - label: 概率统计
         level: 4
-  - name: SLAM & 3D Vision
+      - label: 状态估计
+        level: 4
+      - label: 微分几何
+        level: 3
+  - name: 编程与工具
     items:
-      - label: Structured Light 3D Reconstruction
+      - label: C++ / CUDA / QT
         level: 5
-      - label: VSLAM / NeRF / 3DGS
+      - label: OpenCV / PCL / Eigen3 / G2O / OpenGL / Sophus
         level: 5
-      - label: Multi-View Geometry
-        level: 5
-      - label: Computer Graphics (OpenGL)
+      - label: Python
         level: 4
-  - name: Pattern Recognition & ML
+      - label: PyTorch / NumPy
+        level: 3
+  - name: SLAM与三维视觉
     items:
-      - label: Machine Learning (Bayes, SVM, etc.)
+      - label: 三维重建
+        level: 5
+      - label: 多视图几何
+        level: 5
+      - label: 计算机图形学（CG）
         level: 4
-      - label: Deep Learning (CNN, Transformer, etc.)
+      - label: VSLAM / NeRF / 3DGS / BA / ICP
         level: 4
-      - label: Python / PyTorch / NumPy
-        level: 4
-  - name: Programming & Tools
+  - name: 模式识别
     items:
-      - label: C++
-        level: 5
-      - label: CUDA
+      - label: 机器学习
+      # （Bayes、SVM、Decision Tree等）
         level: 4
-      - label: QT
+      - label: 深度学习
+      # （FCNN、CNN、RNN、Transformer等）
         level: 4
-      - label: OpenCV / PCL / Eigen3 / G2O
-        level: 5
 
 languages:
-  - name: Chinese
+  - name: 中文
     level: 5
-    label: Native
-  - name: English
+    label: 母语
+  - name: 英语
     level: 4
-    label: Fluent
-  - name: Japanese
-    level: 3
-    label: Intermediate
+    label: 流利
+  - name: 日语
+    level: 1
+    label: 入门
 
 awards:
-  - title: National Scholarship (3 consecutive years)
-    awarder: Ministry of Education, China
-    date: "2019-06-01"
-    summary: Awarded during Master's program at NUST.
-  - title: JST Research Fellowship
-    awarder: Japan Science and Technology Agency
+  - title: 研究生学业奖学金
+    awarder: 南京理工大学
+    date: "2019-04-01"
+    summary: 硕士就读于南京理工大学期间，连续三年获得该奖项
+  - title: 特别研究员基金
+    awarder: 日本科学技术振兴机构
     date: "2022-04-01"
-    summary: "Grant Number JPMJFS2129"
-  - title: JST SPRING Fellowship
-    awarder: Japan Science and Technology Agency
-    date: "2022-04-01"
-    summary: "Support for Pioneering Research Initiated by the Next Generation. Grant Number JPMJSP2132"
+    summary: The Japan Science and Technology Agency (JST) Research Fellowship, Grant Number JPMJFS2129
+  - title: 次世代研究员挑战性研究计划基金
+    awarder: 日本科学技术振兴机构
+    date: "2024-04-01"
+    summary: The Japan Science and Technology Agency (JST) ”Support for Pioneering Research Initiated by the Next Generation (SPRING)”, Grant Number JPMJSP2132
