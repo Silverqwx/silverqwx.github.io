@@ -1,6 +1,6 @@
 ---
 title: Human Body 3D Modeling System
-summary: Human Body 3D Modeling System
+summary: High-precision human body 3D modeling using 12 self-developed 3D cameras
 tags:
   - 3D Reconstruction
 date: '2020-09-01'
@@ -8,6 +8,7 @@ image:
   focal_point: Smart
 ---
 
-Self-developed 3D camera and structured light cross-synchronous projection technology are used in this system to achieve 3D modeling of the human body.
+Based on a self-developed 3D camera array, achieved high-precision human body 3D modeling.
 
-使用自研的3D相机，基于结构光交叉同步投影技术，实现人体三维建模
+- Used 12 self-developed 3D cameras to cover the entire human body
+- Used structured light cross-synchronous projection technology to solve bandwidth limitations at high frame rates

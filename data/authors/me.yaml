@@ -5,7 +5,7 @@ name:
   display: Wenxiang Qin
   given: Wenxiang
   family: Qin
-  alternate: '秦文祥'
+  alternate: '秦文翔'
   pronunciation: ''
   pronouns: he/him
 
@@ -13,7 +13,7 @@ role: PhD Student
 
 bio: |
   Wenxiang Qin is a PhD student at the Hiroshima University High-Speed Vision Lab.
-  His research interests include computer vision, 3D reconstruction and high-speed vision.
+  His research interests include robot vision, 3D reconstruction and digital twin.
 
 affiliations:
   - name: Hiroshima University
@@ -33,42 +33,33 @@ links:
     url: https://www.youtube.com/channel/UCaSWe05I0HrpoOjRpzbhWZg/featured
 
 interests:
-  - Computer Vision
+  - Robot Vision
   - 3D Reconstruction
-  - High-Speed Vision
+  - Digital Twin
 
 education:
-  - degree: PhD in Smart Innovation
+  - degree: PhD in Smart Robotics
     institution: Hiroshima University
     start: 2022-04-01
-    end: 2025-03-31
+    end: 2026-03-31
   - degree: MSc in Systems Engineering
     institution: Nanjing University of Science and Technology
     start: 2016-09-01
-    end: 2019-06-30
+    end: 2019-04-30
   - degree: BSc in Automation
     institution: Nanjing Agricultural University
     start: 2012-09-01
     end: 2016-06-30
 
 experience:
-  - role: CTO
-    org: Zhongke Shijie (Nanjing) Technology Co.
-    start: 2019-11-12
-    summary: |
-      Responsibilities include:
-
-      * Internal Management
-      * Analysis of Demand
-      * Derivation of Formula
-      * Division of Technical Research Module
-      * Division of Technical Development Module
-      * Optimization of Technical Function
-  - role: Computer Vision Algorithm Engineer
-    org: Nanjing Institute of Chip Innovation, Institute of Automation, Chinese Academy of Sciences
-    start: 2019-04-12
+  - role: R&D Engineer
+    org: Institute of Automation, Chinese Academy of Sciences (Nanjing)
+    start: 2018-06-01
+    end: 2022-03-31
     summary: |
       3D reconstruction related algorithms research & development.
+      Led multiple projects including structured light 3D camera, universal calibration system,
+      high-speed 3D reconstruction, and various industrial vision systems.
 
 skills:
   - name: Mathematics
@@ -81,15 +72,23 @@ skills:
         level: 5
       - label: Differential Geometry
         level: 4
-  - name: Computer Vision & AI
+  - name: SLAM & 3D Vision
     items:
-      - label: Computer Vision
+      - label: Structured Light 3D Reconstruction
+        level: 5
+      - label: VSLAM / NeRF / 3DGS
+        level: 5
+      - label: Multi-View Geometry
+        level: 5
+      - label: Computer Graphics (OpenGL)
         level: 4
-      - label: Computer Graphics
-        level: 3
-      - label: SLAM
+  - name: Pattern Recognition & ML
+    items:
+      - label: Machine Learning (Bayes, SVM, etc.)
         level: 4
-      - label: Pattern Recognition
+      - label: Deep Learning (CNN, Transformer, etc.)
+        level: 4
+      - label: Python / PyTorch / NumPy
         level: 4
   - name: Programming & Tools
     items:
@@ -99,8 +98,8 @@ skills:
         level: 4
       - label: QT
         level: 4
-      - label: Office
-        level: 4
+      - label: OpenCV / PCL / Eigen3 / G2O
+        level: 5
 
 languages:
   - name: Chinese
@@ -112,3 +111,17 @@ languages:
   - name: Japanese
     level: 3
     label: Intermediate
+
+awards:
+  - title: National Scholarship (3 consecutive years)
+    awarder: Ministry of Education, China
+    date: "2019-06-01"
+    summary: Awarded during Master's program at NUST.
+  - title: JST Research Fellowship
+    awarder: Japan Science and Technology Agency
+    date: "2022-04-01"
+    summary: "Grant Number JPMJFS2129"
+  - title: JST SPRING Fellowship
+    awarder: Japan Science and Technology Agency
+    date: "2022-04-01"
+    summary: "Support for Pioneering Research Initiated by the Next Generation. Grant Number JPMJSP2132"
