@@ -27,7 +27,8 @@ tags:
 featured: false
 
 hugoblox:
-  ids: {}
+  ids:
+    doi: 10.1109/LSENS.2024.3420887
 
 links:
   - type: pdf

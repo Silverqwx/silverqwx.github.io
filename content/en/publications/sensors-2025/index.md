@@ -26,7 +26,8 @@ tags:
 featured: true
 
 hugoblox:
-  ids: {}
+  ids:
+    doi: 10.3390/s25185675
 
 links:
   - type: pdf

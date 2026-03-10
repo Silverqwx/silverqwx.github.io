@@ -26,7 +26,8 @@ tags:
 featured: true
 
 hugoblox:
-  ids: {}
+  ids:
+    doi: 10.1109/TIM.2025.3593568
 
 links:
   - type: pdf
