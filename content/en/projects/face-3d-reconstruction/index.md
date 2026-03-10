@@ -13,3 +13,5 @@ Based on 3 self-developed 3D cameras, achieved high-precision 3D reconstruction 
 
 - Used structured light cross-synchronous projection technology to solve bandwidth limitations at high frame rates
 - Used high-speed 3D scanning to record dynamic changes in facial expressions
+
+{{< bilibili id="BV1oZcQztETq" >}}

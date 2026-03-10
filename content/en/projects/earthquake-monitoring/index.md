@@ -9,3 +9,5 @@ image:
 ---
 
 Based on a multi-camera system, using pattern markers and high-speed visual perception technology, achieved 360-degree high-speed monitoring and recording of indoor object trajectories, vibrations, and shaking states.
+
+{{< bilibili id="BV1RwcXzREAy" >}}

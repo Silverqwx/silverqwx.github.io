@@ -17,7 +17,13 @@
       "Bash(xargs cat)",
       "WebSearch",
       "WebFetch(domain:ieeexplore.ieee.org)",
-      "WebFetch(domain:www.spiedigitallibrary.org)"
+      "WebFetch(domain:www.spiedigitallibrary.org)",
+      "Bash(done)",
+      "Bash(hugo mod get)",
+      "Bash(hugo list all)",
+      "Bash(find /Users/qinwenxiang/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/kit/modules/slides* -name \"*.html\")",
+      "Bash(grep -r \"youtube\" /Users/qinwenxiang/Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/kit/modules/slides*)",
+      "Bash(hugo --help)"
     ]
   }
 }

@@ -13,3 +13,5 @@ Based on multiple self-developed 3D cameras, achieved real-time panoramic 3D rec
 
 - Single scan time of only 0.042 seconds
 - Used structured light cross-synchronous projection technology to solve bandwidth limitations at high frame rates
+
+{{< bilibili id="BV15ncQz9E6Z" >}}
