@@ -41,6 +41,7 @@ sections:
     id: projects
     content:
       title: Featured Projects
+      count: 0
       filters:
         folders:
           - projects

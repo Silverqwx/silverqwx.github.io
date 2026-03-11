@@ -41,6 +41,7 @@ sections:
     id: projects
     content:
       title: 精选项目
+      count: 0
       filters:
         folders:
           - projects

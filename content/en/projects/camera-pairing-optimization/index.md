@@ -5,6 +5,7 @@ tags:
   - Digital Twin
   # - 3D Measurement
 date: '2024-01-01'
+featured: true
 image:
   focal_point: Smart
 ---

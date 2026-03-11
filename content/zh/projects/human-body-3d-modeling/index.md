@@ -4,6 +4,7 @@ summary: 基于12台自研三维相机实现高精度人体三维建模
 tags:
   - 三维重建
 date: '2020-09-01'
+featured: true
 image:
   focal_point: Smart
 ---

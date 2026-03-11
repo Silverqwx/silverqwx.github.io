@@ -4,7 +4,7 @@ summary: High-speed 3D scanning camera based on structured light, achieving 0.01
 tags:
   - 3D Reconstruction
 date: '2018-06-01'
-featured: true
+featured: false
 image:
   focal_point: Smart
 ---

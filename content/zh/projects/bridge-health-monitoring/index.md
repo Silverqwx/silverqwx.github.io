@@ -5,7 +5,7 @@ tags:
   - 数字孪生
   # - 三维测量
 date: '2023-01-01'
-featured: true
+featured: false
 image:
   focal_point: Smart
 ---

@@ -5,6 +5,7 @@ tags:
   - 三维重建
   # - 三维测量
 date: '2020-03-01'
+featured: true
 image:
   focal_point: Smart
 ---

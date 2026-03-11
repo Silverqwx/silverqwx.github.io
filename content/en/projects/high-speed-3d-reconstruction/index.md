@@ -5,6 +5,7 @@ tags:
   - 3D Reconstruction
   # - 3D Measurement
 date: '2020-03-01'
+featured: true
 image:
   focal_point: Smart
 ---

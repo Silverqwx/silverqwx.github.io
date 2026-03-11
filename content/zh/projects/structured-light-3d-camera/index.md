@@ -4,7 +4,7 @@ summary: 基于结构光的高速三维扫描相机，实现0.01mm精度、30fps
 tags:
   - 三维重建
 date: '2018-06-01'
-featured: true
+featured: false
 image:
   focal_point: Smart
 ---

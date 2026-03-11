@@ -4,6 +4,7 @@ summary: High-precision human body 3D modeling using 12 self-developed 3D camera
 tags:
   - 3D Reconstruction
 date: '2020-09-01'
+featured: true
 image:
   focal_point: Smart
 ---

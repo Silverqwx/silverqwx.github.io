@@ -4,6 +4,7 @@ summary: 360-degree high-speed monitoring of indoor object trajectories and vibr
 tags:
   - 3D Monitoring
 date: '2020-10-01'
+featured: true
 image:
   focal_point: Smart
 ---
