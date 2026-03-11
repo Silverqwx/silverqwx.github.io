@@ -19,13 +19,29 @@ summary: A new type of bin packing scheme and a packing optimization method base
 
 tags: []
 
-featured: true
+featured: false
 
 hugoblox:
   ids:
     doi: 10.3969/j.issn.1006-2475.2019.05.009
 
-links: []
+links:
+  - type: pdf
+    url: "秦 等 - 2019 - 基于RGBD的箱体尺寸测量与包装优化.pdf"
+  # - type: code
+  #   url: https://github.com/HugoBlox/kit
+  # - type: dataset
+  #   url: ""
+  # - type: poster
+  #   url: ""
+  # - type: project
+  #   url: "../projects/vibration-digital-twin"
+  # - type: slides
+  #   url: https://www.slideshare.net/
+  # - type: source
+  #   url: ""
+  # - type: video
+  #   url: ""
 
 image:
   caption: ''
